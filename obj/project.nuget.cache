@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRgnkLVkKB5Q23pORQyQrXwZubNguHAzCRQsWciSJHKXm3txLs0NJ5QR66/qnvL0evu0YKaWfiZfK5Z6sD5pTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasmin\\Desktop\\Code\\GuidCollector\\GuidCollector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasmin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

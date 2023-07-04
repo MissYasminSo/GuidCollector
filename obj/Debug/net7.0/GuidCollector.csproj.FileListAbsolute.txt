@@ -1,0 +1,17 @@
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\GuidCollector.exe
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\GuidCollector.deps.json
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\GuidCollector.runtimeconfig.json
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\GuidCollector.dll
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\GuidCollector.pdb
+C:\Users\Yasmin\Desktop\Code\GuidCollector\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.csproj.AssemblyReference.cache
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.AssemblyInfo.cs
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.csproj.CopyComplete
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.dll
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\refint\GuidCollector.dll
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.pdb
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\GuidCollector.genruntimeconfig.cache
+C:\Users\Yasmin\Desktop\Code\GuidCollector\obj\Debug\net7.0\ref\GuidCollector.dll
