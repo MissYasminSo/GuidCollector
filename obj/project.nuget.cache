@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uRgnkLVkKB5Q23pORQyQrXwZubNguHAzCRQsWciSJHKXm3txLs0NJ5QR66/qnvL0evu0YKaWfiZfK5Z6sD5pTA==",
+  "dgSpecHash": "jG+N/O0ztFZqDXVORJDgNOgZmS84uFnCnjRqdgMrTjVPoPLf0bAv6MTcD+qVkxBgx40Rp16MEnlTJ0J7QhuFFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yasmin\\Desktop\\Code\\GuidCollector\\GuidCollector.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Yasmin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+    "C:\\Users\\Yasmin\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Yasmin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.2\\microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\Yasmin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\Yasmin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
